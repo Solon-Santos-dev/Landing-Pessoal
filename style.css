@@ -26,9 +26,15 @@ body {
 }
 
 .frase1 {
+    font-family:Arial, Helvetica, sans-serif;
     display: flex;
     margin-top: 35px;
     align-items: center;
     margin-bottom: 20px;
+}
+
+.frase2 {
+    font-family: 'Sarala';
+    margin-bottom: 50px;
 }
 
