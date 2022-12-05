@@ -20,3 +20,15 @@ body {
     padding: 30px;
     gap: 32px;
 }
+
+.principal {
+    border-top: 0.4px solid white;
+}
+
+.frase1 {
+    display: flex;
+    margin-top: 35px;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
