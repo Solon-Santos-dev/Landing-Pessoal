@@ -23,18 +23,30 @@ body {
 
 .principal {
     border-top: 0.4px solid white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 30px;
 }
 
 .frase1 {
     font-family:Arial, Helvetica, sans-serif;
-    display: flex;
     margin-top: 35px;
-    align-items: center;
-    margin-bottom: 20px;
 }
 
 .frase2 {
     font-family: 'Sarala';
-    margin-bottom: 50px;
+    
+}
+
+.frase3 {
+    font-family: 'Sarala';
+}
+
+.rodape {
+    border-top: 0.4px solid white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
