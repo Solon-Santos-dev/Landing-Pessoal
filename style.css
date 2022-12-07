@@ -7,10 +7,18 @@
     text-decoration: none;
 }
 
-
+.logo-site {
+    display: flex;
+    box-sizing: border-box;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    width: 40px;
+    
+}
 
 body {
-    background-color: black;
+    background-color: rgb(36, 7, 7);
     color: white;
 }
 
