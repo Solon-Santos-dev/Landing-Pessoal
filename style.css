@@ -22,7 +22,7 @@ body {
     color: white;
 }
 
-.menu-navegacao {
+.menu-nav {
     display: flex;
     flex-direction: row;
     align-items: top;
@@ -38,21 +38,21 @@ body {
     margin-bottom: 30px;
 }
 
-.frase1 {
+.phrase1 {
     font-family:Arial, Helvetica, sans-serif;
     margin-top: 35px;
 }
 
-.frase2 {
+.phrase2 {
     font-family: 'Sarala';
     
 }
 
-.frase3 {
+.phrase3{
     font-family: 'Sarala';
 }
 
-.rodape {
+.footer-site {
     border-top: 0.4px solid white;
     display: flex;
     flex-direction: column;
