@@ -30,6 +30,54 @@ body {
     padding: 30px;
 }
 
+.button1 {
+    color:white;
+    background-color: rgb(39, 132, 160);
+    box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
+    border: none;
+    border-radius: 30px;
+    width: 100;
+    height: 25px;
+    font-weight: 100;
+    font-size: 13.5px;
+}
+
+.button2 {
+    color:white;
+    background-color: rgb(39, 132, 160);
+    box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
+    border: none;
+    border-radius: 30px;
+    width: 100;
+    height: 25px;
+    font-weight: 100;
+    font-size: 13.5px;
+}
+
+.button3 {
+    color:white;
+    background-color: rgb(39, 132, 160);
+    box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
+    border: none;
+    border-radius: 30px;
+    width: 100;
+    height: 25px;
+    font-weight: 100;
+    font-size: 13.5px;
+}
+
+.button {
+    color:white;
+    background-color: rgb(39, 132, 160);
+    box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
+    border: none;
+    border-radius: 30px;
+    width: 100;
+    height: 25px;
+    font-weight: 100;
+    font-size: 13.5px;
+}
+
 .principal {
     font-family: 'Sarala';
     border-top: 0.4px solid white;
