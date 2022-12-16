@@ -1,3 +1,4 @@
-Here i will share some thins about this project, and my code.
-Actually, i'm focusing in to improve my english too. 
-I really think that project will help me, and to give new ways and tasks to get this goal.
+# Landing Page em inglês.
+#### Com o objetivo de praticar esse idioma e compartilhar algumas experiências pessoais, estou desenvolvendo esta Landing Page.
+Mais para frente, poderei aplicar esses conhecimentos no desenvolvimento de um site em português.
+##### Projeto em andamento...
